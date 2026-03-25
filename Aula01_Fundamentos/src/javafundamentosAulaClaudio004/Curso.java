@@ -1,4 +1,4 @@
-package AulaClaudio004;
+package javafundamentosAulaClaudio004;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package AulaClaudio004;
+package javafundamentosAulaClaudio004;
 
 public class Main {
 	    public static void main(String[] args) {
