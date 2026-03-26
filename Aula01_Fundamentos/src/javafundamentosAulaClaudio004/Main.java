@@ -4,6 +4,8 @@ public class Main {
 	    public static void main(String[] args) {
 
 	        // Criando professor
+	        System.out.println("Carga Horária: " );
+	        
 	        Professor prof = new Professor("Carlos", "Programação");
 
 	        // Criando curso
